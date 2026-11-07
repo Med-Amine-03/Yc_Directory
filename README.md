@@ -2,6 +2,8 @@
 
 A Next.js platform where founders publish startup pitches and visitors browse, search and read them.
 
+> Built following [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)'s YC Directory tutorial.
+
 ## Features
 
 - Sign in with GitHub (NextAuth)
